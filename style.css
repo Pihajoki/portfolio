@@ -138,3 +138,12 @@ body::after{
 .code {
     background: #ffa920;
 }
+
+.vuodet {
+        font-family: 'Courier New', Courier, monospace;
+    font-size: 22px;
+    font-style: italic;
+    text-align: center;
+    color: #ff9100;
+    text-shadow: 3px 3px 5px rgba(255,155,0,.27);
+}
